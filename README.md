@@ -1,6 +1,6 @@
 ## Universidade Federal Rural do Semi-Àrido - Mossoró / RN
 ### Bacharelado em Ciência da Computação 
-### Disciplina de Estrutura de Dados 1 
+### Disciplina de pProgramação de jogos 
 ### Professor: Judson Santiago
 ### Jogo Unidade 1
 ### Programação de jogos 2D
